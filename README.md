@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/QurLqjG.png" height="40%" width="60%"/>
 </p>
 
-<h1>Setting up ProtonVPN and Observing Its Effect on IP Addressing</h1>
+<h1>Setting up ProtonVPN and Observing Its Effect on IP Address</h1>
 In this project, I observed the impact of a virtual private network (VPN) on IP address, location, and web browsing. <br />
 
 
